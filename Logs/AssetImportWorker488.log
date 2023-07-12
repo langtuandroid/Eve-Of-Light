@@ -1,0 +1,236 @@
+Using pre-set license
+Built from '2022.1/staging' branch; Version is '2022.1.20f1 (01d83b40d570) revision 120891'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 65264 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\2022.1.20f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker488
+-projectPath
+S:/Vault/Eve-of-Darkness
+-logFile
+Logs/AssetImportWorker488.log
+-srvPort
+8727
+Successfully changed project path to: S:/Vault/Eve-of-Darkness
+S:/Vault/Eve-of-Darkness
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     73516 1486c -
+     73516 355c -
+     92560 17314 -
+     95436 174d0 -
+     93188 175f8 -
+     95976 12544 -
+     86488 16e80 -
+     67428 f3d8 -
+     79016 17300 -
+     87532 b184 -
+     95300 17588 -
+     90388 1470c -
+     93828 176b0 -
+     94616 177e4 -
+     47852 b070 -
+     73376 99ac -
+     93496 a6c4 -
+     46980 13844 -
+     42908 17510 -
+     26128 e350 -
+     95904 f484 -
+     94160 d660 -
+     43444 16ce4 -
+     81960 17028 -
+     63448 13164 -
+     42824 16448 -
+     88884 17628 -
+     36920 1734c -
+     87668 8a9c -
+     23248 10bec -
+     64808 f2f8 -
+     96220 f37c -
+     94404 b0ec -
+     95760 174d4 -
+     13920 177cc -
+     95384 16fa0 -
+     55584 8b0c -
+     93088 102bc -
+     80412 159f0 -
+     42416 1593c -
+     60016 163c4 -
+     95260 17470 -
+     93900 f330 -
+     42620 17730 -
+     86748 149ec -
+     70644 17550 -
+     91460 15954 -
+     44024 14ff8 -
+     82540 16e7c -
+     94972 1628c -
+     90940 14fac -
+     89452 110cc -
+     96016 15b84 -
+     60500 b8a0 -
+      9656 169c8 -
+     94436 13178 -
+     90956 171dc -
+     96440 178bc -
+     32716 1636c -
+     97076 17b38 -
+     93992 9408 -
+     91932 c6c4 -
+     89444 17974 -
+     90732 17b64 -
+     96652 17b28 -
+     96732 17448 -
+     59088 174c8 -
+     96728 179e0 -
+     40992 d860 -
+     91732 17520 -
+     90708 5c34 -
+     93760 16f54 -
+     93988 d620 -
+     34856 176dc -
+     95424 16eb8 -
+     96676 17b24 -
+     96648 17618 -
+     71440 17838 -
+     78956 161cc -
+     78704 17968 -
+     96100 16e58 -
+     28308 1678c -
+     92268 351c -
+     91844 138b4 -
+     91440 16a8 -
+     89312 8d08 -
+     97220 163b8 -
+     94620 17724 -
+     58916 170a4 -
+     91540 d730 -
+     92404 16f2c -
+     52420 173f4 -
+     94780 d380 -
+     55560 15c64 -
+     45564 162fc -
+     95712 16e90 -
+     92024 b9f0 -
+     81300 da84 -
+     33328 b318 -
+     95540 676c -
+     61580 27b0 -
+     96384 176e4 -
+     83824 9bec -
+     85188 13354 -
+     52892 16dc8 -
+     94492 cdcc -
+     93736 b5f8 -
+     84072 875c -
+      3636 17104 -
+     94164 16c6c -
+     34308 15948 -
+     86964 cbc0 -
+     90352 149b8 -
+     90524 a620 -
+     93948 16cd8 -
+     70064 3524 -
+     97264 17bf4 -
+     93608 1640c -
+     92040 16f10 -
+     89908 169bc -
+     76108 163ac -
+     91320 1794c -
+     96032 17958 -
+     13432 12200 -
+     78608 e8dc -
+     95608 17604 -
+Cleaned out 122 stale readers
+Refreshing native plugins compatible for Editor in 2589.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.1.20f1 (01d83b40d570)
+[Subsystems] Discovering subsystems at path D:/2022.1.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path S:/Vault/Eve-of-Darkness/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e87)
+    Vendor:   NVIDIA
+    VRAM:     8002 MB
+    Driver:   31.0.15.2686
+Initialize mono
+Mono path[0] = 'D:/2022.1.20f1/Editor/Data/Managed'
+Mono path[1] = 'D:/2022.1.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/2022.1.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56068
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/2022.1.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007292 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 4900.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.843 seconds
+Domain Reload Profiling:
+	ReloadAssembly (8845ms)
+		BeginReloadAssembly (405ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (7930ms)
+			LoadAssemblies (403ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (726ms)
+				TypeCache.Initialize (722ms)
+					TypeCache.ScanAssembly (715ms)
+				ResolveRequiredComponents (4ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (295ms)
+			SetupLoadedEditorAssemblies (6538ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (56ms)
+				SetLoadedEditorAssemblies (69ms)
+				RefreshPlugins (4902ms)
+				BeforeProcessingInitializeOnLoad (140ms)
+				ProcessInitializeOnLoadAttributes (1120ms)
+				ProcessInitializeOnLoadMethodAttributes (250ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.029962 seconds.
